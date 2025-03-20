@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+kU97hW7fo=",
+  "success": true,
+  "projectFilePath": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Application\\MyApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
