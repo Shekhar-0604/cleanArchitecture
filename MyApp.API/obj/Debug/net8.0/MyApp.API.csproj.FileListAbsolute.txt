@@ -177,3 +177,5 @@ E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\obj\Debug\net8.0\re
 E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\obj\Debug\net8.0\MyApp.API.pdb
 E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\obj\Debug\net8.0\MyApp.API.genruntimeconfig.cache
 E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\obj\Debug\net8.0\ref\MyApp.API.dll
+E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\bin\Debug\net8.0\MediatR.dll
+E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\bin\Debug\net8.0\MediatR.Contracts.dll

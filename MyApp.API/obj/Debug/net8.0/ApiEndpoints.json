@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "MyApp.API.Controllers.EmployeeController",
+    "Method": "AddEmployeeAsync",
+    "RelativePath": "api/Employee/addEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "MyApp.Core.Entities.EmployeeEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApp.API.Controllers.EmployeeController",
+    "Method": "GetAllEmployeeAsync",
+    "RelativePath": "api/Employee/getAllEmployee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApp.API.Controllers.EmployeeController",
+    "Method": "GetEmployeeByIDAsync",
+    "RelativePath": "api/Employee/GetEmployeeByID/{employeeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApp.API.Controllers.EmployeeController",
+    "Method": "DeleteEmployeeByIDAsync",
+    "RelativePath": "api/Employee/GetEmployeeByID/{employeeId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApp.API.Controllers.EmployeeController",
+    "Method": "UpdateEmployeeAsync",
+    "RelativePath": "api/Employee/updateEmployee",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "MyApp.Core.Entities.EmployeeEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
