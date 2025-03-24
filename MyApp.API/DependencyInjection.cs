@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using MyApp.Application;
 using MyApp.Infrastructure;
+using MyApp.Core;
 
 namespace MyApp.API
 {
@@ -9,7 +10,8 @@ namespace MyApp.API
 		public static IServiceCollection AddAppDI(this IServiceCollection services, IConfiguration configuration)
 		{
 			services.AddApplicationDI()
-				.AddInfrastructureDI(configuration);
+				.AddInfrastructureDI()
+			.AddCoreDI(configuration);
 			
 			return services;
 		}

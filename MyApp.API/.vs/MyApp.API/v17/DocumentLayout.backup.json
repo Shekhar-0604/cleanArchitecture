@@ -3,11 +3,25 @@
   "WorkspaceRootPath": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59178C4A-460A-460A-8765-4EEB1B02A538}|..\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AF428F-8028-417E-882C-B269FD0201B6}|..\\MyApp.Core\\MyApp.Core.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AF428F-8028-417E-882C-B269FD0201B6}|..\\MyApp.Core\\MyApp.Core.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.core\\options\\connectionstringoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|solutionrelative:dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59178C4A-460A-460A-8765-4EEB1B02A538}|..\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -15,10 +29,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{30F55B38-9DFD-4C39-A6E9-20B50B8CFEB6}|..\\MyApp.Application\\MyApp.Application.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.application\\command\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0E916AA-38CF-4A15-B25B-76420363024B}|MyApp.API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59178C4A-460A-460A-8765-4EEB1B02A538}|..\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj|e:\\dotnet learn\\projects_learn\\client_architecture\\myapp.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -34,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 288,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +64,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Core\\DependencyInjection.cs",
+              "ToolTip": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\MyApp.Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:17:33.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionStringOptions.cs",
+              "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Core\\Options\\ConnectionStringOptions.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Core\\Options\\ConnectionStringOptions.cs",
+              "ToolTip": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Core\\Options\\ConnectionStringOptions.cs",
+              "RelativeToolTip": "..\\MyApp.Core\\Options\\ConnectionStringOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:14:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:11:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "DependencyInjection.cs",
               "ToolTip": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\DependencyInjection.cs",
               "RelativeToolTip": "DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T15:53:35.836Z",
               "EditorCaption": ""
@@ -73,27 +122,40 @@
               "RelativeDocumentMoniker": "..\\MyApp.Infrastructure\\DependencyInjection.cs",
               "ToolTip": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "..\\MyApp.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T15:48:41.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:25:20.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-23T15:47:08.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DeleteEmployeeCommand.cs",
               "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Application\\Command\\DeleteEmployeeCommand.cs",
               "RelativeDocumentMoniker": "..\\MyApp.Application\\Command\\DeleteEmployeeCommand.cs",
@@ -106,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Infrastructure\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "..\\MyApp.Infrastructure\\Repositories\\EmployeeRepository.cs",
@@ -119,20 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.API\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAApwCkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:25:20.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "GetEmployeeByIDQuery.cs",
               "DocumentMoniker": "E:\\DOTNET Learn\\Projects_Learn\\Client_Architecture\\MyApp.Application\\Queries\\GetEmployeeByIDQuery.cs",
               "RelativeDocumentMoniker": "..\\MyApp.Application\\Queries\\GetEmployeeByIDQuery.cs",

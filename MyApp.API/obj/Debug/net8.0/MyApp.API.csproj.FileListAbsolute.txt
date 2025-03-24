@@ -179,3 +179,5 @@ E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\obj\Debug\net8.0\My
 E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\obj\Debug\net8.0\ref\MyApp.API.dll
 E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\bin\Debug\net8.0\MediatR.dll
 E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\DOTNET Learn\Projects_Learn\Client_Architecture\MyApp.API\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
